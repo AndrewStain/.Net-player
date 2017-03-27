@@ -1,0 +1,75 @@
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\mp3-player.exe.config
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\Interop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\AxInterop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3-player.csproj.ResolveComReference.cache
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\mp3-player.exe
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\mp3-player.pdb
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\taglib-sharp.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\Interop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3_player.AboutAudio.resources
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3_player.Filters.resources
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3_player.Form1.resources
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3_player.Properties.Resources.resources
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3-player.csproj.GenerateResource.Cache
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3-player.exe
+C:\Users\leven\Desktop\course-project\mp3-player — копия\mp3-player\obj\Release\mp3-player.pdb
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\mp3-player.exe.config
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\Interop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\AxInterop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3-player.csproj.ResolveComReference.cache
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3-player.exe
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3-player.pdb
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3-player.csprojResolveAssemblyReference.cache
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3_player.AboutAudio.resources
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3_player.Filters.resources
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3_player.Form1.resources
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3-player.csproj.GenerateResource.Cache
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\mp3-player.exe
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\mp3-player.pdb
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\taglib-sharp.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\Interop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\leven\Desktop\course-project\mp3-player — копия — копия\mp3-player\obj\Release\mp3_player.Properties.Resources.resources
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\mp3-player.exe.config
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\Interop.WMPLib.dll
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\AxInterop.WMPLib.dll
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3-player.csproj.ResolveComReference.cache
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3-player.exe
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3-player.pdb
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\mp3-player.exe
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\mp3-player.pdb
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\taglib-sharp.dll
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\Interop.WMPLib.dll
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\bin\Release\AxInterop.WMPLib.dll
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3-player.csprojResolveAssemblyReference.cache
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3_player.AboutAudio.resources
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3_player.Filters.resources
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3_player.Form1.resources
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3_player.Properties.Resources.resources
+C:\Users\leven\Desktop\Projects\course-project\mp3-player\mp3-player\obj\Release\mp3-player.csproj.GenerateResource.Cache
+F:\course-project\mp3-player\mp3-player\bin\Release\mp3-player.exe.config
+F:\course-project\mp3-player\mp3-player\obj\Release\Interop.WMPLib.dll
+F:\course-project\mp3-player\mp3-player\obj\Release\AxInterop.WMPLib.dll
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3-player.csproj.ResolveComReference.cache
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3-player.exe
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3-player.pdb
+F:\course-project\mp3-player\mp3-player\bin\Release\mp3-player.exe
+F:\course-project\mp3-player\mp3-player\bin\Release\mp3-player.pdb
+F:\course-project\mp3-player\mp3-player\bin\Release\policy.2.0.taglib-sharp.dll
+F:\course-project\mp3-player\mp3-player\bin\Release\taglib-sharp.dll
+F:\course-project\mp3-player\mp3-player\bin\Release\policy.2.0.taglib-sharp.config
+F:\course-project\mp3-player\mp3-player\bin\Release\Interop.WMPLib.dll
+F:\course-project\mp3-player\mp3-player\bin\Release\AxInterop.WMPLib.dll
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3-player.csprojResolveAssemblyReference.cache
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3_player.AboutAudio.resources
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3_player.Filters.resources
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3_player.Form1.resources
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3_player.Properties.Resources.resources
+F:\course-project\mp3-player\mp3-player\obj\Release\mp3-player.csproj.GenerateResource.Cache
